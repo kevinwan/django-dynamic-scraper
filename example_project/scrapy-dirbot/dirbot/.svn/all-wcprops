@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10139/trunk/scrapy/scrapy-dirbot/dirbot
+END
+pipelines.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10122/trunk/scrapy/scrapy-dirbot/dirbot/pipelines.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10122/trunk/scrapy/scrapy-dirbot/dirbot/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10132/trunk/scrapy/scrapy-dirbot/dirbot/settings.py
+END
+items.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10139/trunk/scrapy/scrapy-dirbot/dirbot/items.py
+END
