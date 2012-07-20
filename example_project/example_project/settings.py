@@ -125,11 +125,12 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
+    'celerytest',
     'south',
     'kombu.transport.django',
     'djcelery',
     'dynamic_scraper',
-    'open_news',
+    'open',
 )
 
 # A sample logging configuration. The only tangible logging
@@ -168,6 +169,7 @@ djcelery.setup_loader()
 BROKER_HOST = "localhost"
 BROKER_PORT = 5672
 BROKER_BACKEND = "django"
+#BROKER_URL='django://'
 BROKER_USER = "guest"
 BROKER_PASSWORD = "guest"
 BROKER_VHOST = "/"
